@@ -3,11 +3,14 @@
 EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb
 ```
 
+
 # Tomarket
+
 Auto bot for Tomarket Airdrop
+
 # Register ?
 
-Click the following url to register : [Moonbix From Here Please ](https://t.me/Binance_Moonbix_bot/start?startApp=ref_1242349721&startapp=ref_1242349721&utm_medium=web_share_copy)
+Click the following url to register : [Moonbix From Here Please ](https://t.me/Tomarket_ai_bot/app?startapp=0000OaZ7)
 
 # Disclamer
 
@@ -21,7 +24,7 @@ Click the following url to register : [Moonbix From Here Please ](https://t.me/B
 
 # How to Use
 
-## Bot.py parameter feature
+## main.py parameter feature
 
 Here are some parameters to enable feature
 
