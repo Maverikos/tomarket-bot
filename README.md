@@ -12,7 +12,7 @@ Auto bot for Tomarket Airdrop
 
 # Register ?
 
-Click the following url to register : [Moonbix From Here Please ](https://t.me/Tomarket_ai_bot/app?startapp=0000OaZ7)
+Click the following url to register : [Tomarket From Here Please ](https://t.me/Tomarket_ai_bot/app?startapp=0000OaZ7)
 
 # Disclamer
 
