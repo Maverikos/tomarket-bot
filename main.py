@@ -300,7 +300,7 @@ def print_banner():
     ┃┃┃┃┃┃┏┓┣┓┏┫┃━┫┃┃┃┏┓┫┗┛┣━━┃
     ┗┛┗┛┗┻┛┗┛┗┛┗━━┻┛┗┻┛┗┻━━┻━━┛
                                                                         
-        Auto Claim Bot For BinanceMoonBix
+        Auto Claim Bot For Tomarket
         Author  : Maverikos
         Github  : https://github.com/Maverikos
             { RESET }"""
